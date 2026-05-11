@@ -18,7 +18,7 @@ So that I can track previous purchases
 
 # Acceptance Criteria
 
-Given I am logged into the system
+Given I am a registered user logged into the system
 
 When I click on "Order History"
 
