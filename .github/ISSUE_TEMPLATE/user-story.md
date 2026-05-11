@@ -6,11 +6,11 @@ labels: ''
 assignees: ''
 ---
 
-**As a** [role]  
-**I need** [feature]  
-**So that** [benefit]  
+As a customer
+I need to view my order history
+So that I can track previous purchases
 
 ### Acceptance Criteria
-**Given** [context]  
-**When** [action]  
-**Then** [thought/outcome]
+Given I am logged into the system
+When I click on "Order History"
+Then I should see my previous orders
