@@ -14,5 +14,4 @@ So that I can track previous purchases
 Given I am logged into the system
 When I click on "Order History"
 Then I should see my previous orders
-```txt id="8v9j6m"
 Commit new file
